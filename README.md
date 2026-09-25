@@ -1,3 +1,5 @@
+Anleitung:
+ 
  1. Datei-Menü aufrufen
    Optionen bei AntiCheat.jar
    Klicke direkt neben der Datei AntiCheat.jar auf das Drei-Punkte-Symbol (⋮ oder …), um das Menü zu öffnen.
